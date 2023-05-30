@@ -1,4 +1,4 @@
-# brooklyn_housing_project
+# Brooklyn_Housing_Project
 EXPLORATORY DATA ANALYSIS OF BROOKLYIN PROPERTIES BETWEEN FROM 2003 TO 2017.
 
 The importance of this exploratory analysis for this dataset is to uncover some insights which include:
